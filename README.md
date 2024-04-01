@@ -5,7 +5,7 @@ This project uses advanced regression techniques on the Kaggle House Prices data
 
 ## Dataset
 The dataset used in this project is the "House Prices - Advanced Regression Techniques" dataset from Kaggle. It contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The dataset is split into training and test sets, with the training set including the sale price (target variable).
-
+The dataset can be downloaded [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 ## Methodology
 - **Data Preprocessing:** Handled missing values, encoded categorical variables, and performed log transformation on the target variable to normalize its distribution.
 - **Feature Engineering:** Utilized one-hot encoding to transform categorical variables into a form that could be provided to ML algorithms.
